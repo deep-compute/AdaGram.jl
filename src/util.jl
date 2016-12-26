@@ -261,4 +261,4 @@ end
 export nearest_neighbors
 export disambiguate
 export pi, write_extended
-export cos_dist, preprocess, read_word2vec, write_word2vec
+export cos_dist, vec, preprocess, read_word2vec, write_word2vec
